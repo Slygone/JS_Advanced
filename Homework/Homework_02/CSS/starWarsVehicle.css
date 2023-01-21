@@ -1,0 +1,10 @@
+table {
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+
+td {
+    border: 2px solid black;
+    padding: 4px;
+    background-image: linear-gradient(lightblue,lightgreen);
+}
