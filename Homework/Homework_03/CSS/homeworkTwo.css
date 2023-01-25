@@ -1,0 +1,16 @@
+td {
+    border: 2px solid black;
+    padding: 4px;
+    background-image: linear-gradient(lightblue, rgb(255, 33, 26));
+    margin: 0 auto;
+    text-align: center;
+}
+
+.table-container{
+    display: flex;
+    justify-content: center;
+}
+#button-container {
+    display: flex;
+    justify-content:center;
+}

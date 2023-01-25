@@ -1,0 +1,44 @@
+#image-container img {
+    width: 20vw;
+    height: 25vh;
+}
+
+#logo-container img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#image-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#button-container {
+    display: flex;
+    justify-content:center;
+}
+
+body{
+    background-color:burlywood;
+}
+
+td {
+    border: 2px solid black;
+    padding: 4px;
+    background-image: linear-gradient(lightblue, rgb(255, 33, 26));
+    margin: 0 auto;
+    text-align: center;
+}
+th {
+    border: 2px solid black;
+    padding: 4px;
+    background-image: linear-gradient(lightblue, rgb(255, 33, 26));
+    margin: 0 auto;
+    text-align: center;
+}
+
+.table-container{
+    display: flex;
+    justify-content: center;
+}
